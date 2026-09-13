@@ -1,0 +1,10 @@
+C:\Users\gonza\source\repos\EjemploGrid_\bin\Debug\EjemploGrid_.exe.config
+C:\Users\gonza\source\repos\EjemploGrid_\bin\Debug\EjemploGrid_.exe
+C:\Users\gonza\source\repos\EjemploGrid_\bin\Debug\EjemploGrid_.pdb
+C:\Users\gonza\source\repos\EjemploGrid_\obj\Debug\EjemploGrid_.csproj.AssemblyReference.cache
+C:\Users\gonza\source\repos\EjemploGrid_\obj\Debug\EjemploGrid_.Form1.resources
+C:\Users\gonza\source\repos\EjemploGrid_\obj\Debug\EjemploGrid_.Properties.Resources.resources
+C:\Users\gonza\source\repos\EjemploGrid_\obj\Debug\EjemploGrid_.csproj.GenerateResource.cache
+C:\Users\gonza\source\repos\EjemploGrid_\obj\Debug\EjemploGrid_.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\EjemploGrid_\obj\Debug\EjemploGrid_.exe
+C:\Users\gonza\source\repos\EjemploGrid_\obj\Debug\EjemploGrid_.pdb
