@@ -22,6 +22,7 @@ Además, el repositorio incluye un tercer proyecto, WinFormsApp1 (MDI), que mues
 - **Ejemplo Grid:** formulario con un DataGridView que captura empleados (ID, nombres, apellidos, correo, fecha de nacimiento, salario). Antes de agregar el registro, valida que ningún campo esté vacío, que el correo tenga formato válido y que el salario sea un valor numérico, mostrando el error con un ErrorProvider junto al campo correspondiente.
   <img width="751" height="649" alt="image" src="https://github.com/user-attachments/assets/1646cfa7-56d9-41ea-9ed8-887eaf7531fc" />
 -**Ejemplo MDI (WinFormsApp1):** aplicación de interfaz de múltiples documentos (MDI). Form1 es el formulario contenedor (IsMdiContainer = true) y tiene un ToolStrip con el botón tsbActivar. Al hacer clic, se abre la ventana hija frmVentanaTexto asignándole MdiParent = this. Antes de crearla, se revisa con Application.OpenForms.OfType<frmVentanaTexto>() si ya hay una abierta; si existe, solo se trae al frente con BringToFront() y Focus(), así nunca se abren ventanas duplicadas.
+  
   <img width="703" height="546" alt="image" src="https://github.com/user-attachments/assets/6f39104d-4e3b-4a70-88fc-bb3dc4800869" />
 
   
